@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Danrong Li"
-  avatar           : "profile.png"
+  avatar           : "danrong.jpg"
   bio              : "M.S. in Computer Science at New York University"
   location         : "Brooklyn, NY"
   employer         :
@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "dl4111@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://www.linkedin.com/in/danrongli/
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/danrongli/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
