@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I'm a second year master student in NYU Tandon. Currently, I'm doing master thesis with [prof. Christopher Musco](https://www.chrismusco.com/).
