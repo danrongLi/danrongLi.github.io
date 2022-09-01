@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Danrong Li / Home Page"
+title                    : "Danrong"
 title_separator          : "-"
 name                     : &name "Danrong Li"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://danrongli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danrongLi/danrongLi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Danrong Li"
   avatar           : "profile.png"
-  bio              : "M.S. in Computer Science at NYU Tandon"
+  bio              : "M.S. in Computer Science at New York University"
   location         : "Brooklyn, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "dl4111@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://www.linkedin.com/in/danrongli/
   bitbucket        :
   codepen          :
   dribbble         :
