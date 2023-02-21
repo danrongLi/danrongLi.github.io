@@ -91,7 +91,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "danrong.li@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://danrongli.github.io/files/danrong_cv.pdf"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -114,7 +114,7 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             : 
+  xing             :
   youtube          :
   wikipedia        :
 
