@@ -10,4 +10,4 @@ redirect_from:
 
 Hi, I'm a first year Ph.D. student at Penn State University in the School of Electrical Engineering and Computer Science, and my advisors are Prof. Young Kun Ko and Prof. Stefan Canzar.
 
-Prior to that, I completed M.S. in Computer Science from NYU Tandon with Prof. Chris Musco as my advisor. 
+Prior to that, I completed M.S. in Computer Science from NYU Tandon with Prof. Christopher Musco as my advisor. 
