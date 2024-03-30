@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a first year Ph.D student at [Penn State University](https://www.eecs.psu.edu) in Computer Science and Engineering.
+Hi, I'm a first year Ph.D. student at [Penn State University](https://www.eecs.psu.edu) in Computer Science and Engineering.
