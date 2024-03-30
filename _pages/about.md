@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a first year Ph.D. student at [Penn State University](https://www.eecs.psu.edu) in the School of Electrical Engineering and Computer Science.
+Hi, I'm a first year Ph.D. student at [Penn State University](https://www.eecs.psu.edu) in the School of Electrical Engineering and Computer Science, and my advisors are Prof. Young Kun Ko and Prof. Stefan Canzar.
+
+Prior to that, I completed M.S. in Computer Science from NYU Tandon with Prof. Chris Musco as my advisor. 
