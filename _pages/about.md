@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a second year M.S. student at NYU Tandon, affiliated with the [Algorithms and Foundations Group](https://csefoundations.engineering.nyu.edu/). 
-
-Currently, I'm working on a master's thesis with [Prof. Christopher Musco](https://www.chrismusco.com/).
+Hi, I'm a first year CSE Ph.D student at [Penn State University](https://www.eecs.psu.edu).
